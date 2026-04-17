@@ -13,7 +13,7 @@ Objectives
 
 - Support data-driven marketing and retention strategies
 
-  Methodology
+Methodology
 
 Customers were evaluated using three key metrics:
 
